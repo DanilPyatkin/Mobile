@@ -1,0 +1,40 @@
+﻿@model ИС_Консалтинг.Models.Mailing
+<div class="block_column back justify_content_center align_items_center">
+    <form class="form_mailing" asp-controller="Home" asp-action="Mailing" method="post">
+        <div class="block_column">
+            <div class="div_title">Рассылка</div>
+            <div class="block_column form_parameters">
+                <p>Подпишись на нас</p>
+                <input asp-for="Email" placeholder="Введите E-mail"></input>
+                <div style="margin-bottom: 10px;"><span style="font-size: 12px; color: red;" asp-validation-for="Email"></span></div>
+                <div style="font-size:14px;color:red; margin-bottom:15px;">@Html.ValidationMessage("Error")</div>
+                <button style="margin-top:5px;">Отправить</button>
+                <div class="view_bag">@ViewBag.Message</div>
+            </div>
+        </div>
+    </form>
+</div>
+
+<div  class="block_column justify_content_spaceAround block_column_adaptive">
+    <div class="block_column align_items_center justify_content_center" style="height:auto;">
+        <img src="../image/img_actions/logo_actions.png" alt="Alternate Text" />
+    <h6 class="h6_heading">Как это работает?</h6>
+    </div>
+    <div style="height:auto;" class="block_row justify_content_spaceAround align_items_center block_adaptive">
+        <div  class="block_column justify_content_center align_items_center child_block">
+            <p class="p_obvodka">1</p>
+            <p class="p_heading">Введите свой Email</p>
+            <p class="p_description">Вы вводите свой Email в указанное поле и ожидаете сообщения</p>
+        </div>
+        <div class="block_column justify_content_center align_items_center child_block">
+            <p class="p_obvodka">2</p>
+            <p class="p_heading">Проверяйте почту</p>
+            <p class="p_description">После ввода Email  в короткий срок вам придет сообщение на почту</p>
+        </div>
+        <div  class="block_column justify_content_center align_items_center child_block">
+            <p class="p_obvodka">3</p>
+            <p class="p_heading">Получение письма</p>
+            <p class="p_description">Как только вы получили письмо, вы подписались на получения актуальных новостей компании</p>
+        </div>
+    </div>
+</div>

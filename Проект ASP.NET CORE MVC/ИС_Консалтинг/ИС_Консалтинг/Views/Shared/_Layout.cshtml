@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Консалтинговая компания</title>
+    <link rel="stylesheet" href="~/css/Layout.css" />
+    <link rel="stylesheet" href="~/css/Header.css" />
+    <link rel="stylesheet" href="~/css/HomePage.css" />
+    <link rel="stylesheet" href="~/css/Footer.css" />
+    <link rel="stylesheet" href="~/css/Support.css" />
+    <link rel="stylesheet" href="~/css/Mailing.css" />
+    <link rel="stylesheet" href="~/css/Services.css" />
+    <link rel="stylesheet" href="~/css/Bid.css" />
+    <link rel="stylesheet" href="~/css/Authorization.css" />
+    <link rel="stylesheet" href="~/css/Register.css" />
+    <link rel="stylesheet" href="~/css/ManagerOperation.css" />
+</head>
+<body>
+    <header>
+        <div class="block_row justify_content_spaceAround ">
+            <div class="block_row align_items_center"><a asp-controller="Home" asp-action="HomePage"  class="logo">M</a></div>
+            <div class="block_row align_items_center">
+                <a asp-controller="Home" asp-action="HomePage" class="nav">Главная</a>
+                <a asp-controller="Home" asp-action="Services" class="nav">Услуги</a>
+                <a asp-controller="User" asp-action="Support" class="nav">Поддержка</a>
+                <a asp-controller="Home" asp-action="Mailing" class="nav">Рассылка</a>
+                @if (User.IsInRole("Admin"))
+                {
+                    <div class="actions">
+                        <a href="#" id="TakeAction">Менеджер</a>
+                        <ul id="actions">
+                            <a asp-action="Client_Bid" asp-controller="Manager">Клиент-заявка</a>
+                            <a asp-action="Client_Support" asp-controller="Manager">Клиент-помощь</a>
+                            <a asp-action="Client_Mailing" asp-controller="Manager">Клиент-рассылка</a>
+                        </ul>
+                    </div>
+                }
+            </div>
+            <div class="block_row align_items_center div_button">
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <div style="margin-right:10px; font-size:14px;">@User.Identity.Name</div>
+                    <a  asp-controller="Account" asp-action="Exit"  class="button_aut">Выйти</a>
+                }
+                else
+                {
+                    <a asp-controller="Account" asp-action="Register" class="button_aut">Регистрация</a>
+                    <a asp-controller="Account" asp-action="Authorization" class="button_aut">Авторизация</a>
+                }
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <main role="main">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <div class="block_row align_items_center justify_content_center">
+            <p class="p_footer">MACON &#169; 2001 - 2022</p>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/Slider.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

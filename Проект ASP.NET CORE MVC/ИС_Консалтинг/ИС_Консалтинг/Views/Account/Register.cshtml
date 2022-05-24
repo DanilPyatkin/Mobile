@@ -1,0 +1,20 @@
+﻿@model ИС_Консалтинг.ViewModels.User_Registeration
+<div class="block_column back justify_content_center align_items_center">
+    <form class="form_register" asp-controller="Account" asp-action="Register" method="post">
+        <div class="block_column">
+            <div class="div_title">Регистрация</div>
+            <div class="block_column form_parameters">
+                <input type="text" asp-for="Name" placeholder="Введите ФИО" />
+                <div style="margin-bottom: 10px;"><span style="font-size: 12px; color: red;" asp-validation-for="Name"></span></div>
+                <input type="email" asp-for="Email" style="margin:0px;" placeholder="Введите E-mail"></input>
+                <div style="margin-bottom: 10px;"><span style="font-size:12px; color:red;" asp-validation-for="Email"></span></div>
+                <input type="password" asp-for="Password" placeholder="Введите пароль"></input>
+                <div style="margin-bottom: 10px;"><span style="font-size: 12px; color: red;" asp-validation-for="Password"></span></div>
+                <input asp-for="PasswordConfirm" style="margin:0px 0px 10px 0px;" type="password" placeholder="Повторите пароль"></input>
+                <div style="margin-bottom: 10px;"><span style="font-size: 12px; color: red;" asp-validation-for="PasswordConfirm"></span></div>
+                <div style="font-size:14px;color:red; margin-bottom:15px;">@Html.ValidationMessage("Error")</div>
+                <button style="margin-bottom:10px;">Регистрация</button>
+            </div>
+        </div>
+    </form>
+</div>

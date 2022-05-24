@@ -1,0 +1,46 @@
+﻿@model ИС_Консалтинг.Models.Bid
+<div class="block_column back justify_content_center align_items_center">
+    <form class="form_bid" asp-action="Bid" asp-controller="User" method="post">
+        <div class="block_column">
+            <div class="div_title">Заявка</div>
+            <div class="block_column form_parameters">
+                <p style="text-align:center;">Хочешь оформить заявку?</p>
+                <p>Выбери услугу</p>
+                <select asp-for="service">
+                    <option value="" style="display:none;">Выберите услугу</option>
+                    <option value="Аналитики и исследование рынка недвижимости">Аналитики и исследование рынка недвижимости</option>
+                    <option value="Бизнес-планирование девелоперских проектов">Бизнес-планирование девелоперских проектов</option>
+                    <option value="Стратегический консалтинг в сфере девелопмента">Стратегический консалтинг в сфере девелопмента</option>
+                    <option value="Бизнес-тренинги по недвижимости">Бизнес-тренинги по недвижимости</option>
+                </select>
+                <div style="margin-bottom: 10px;"><span style="font-size: 12px; color: red;" asp-validation-for="service"></span></div>
+                <button>Заказать</button>
+                <div class="view_bag">@ViewBag.Message</div>
+            </div>
+        </div>
+    </form>
+</div>
+
+<div class="block_column justify_content_spaceAround block_column_adaptive">
+    <div class="block_column align_items_center justify_content_center" style="height:auto;">
+        <img src="../image/img_actions/logo_actions.png" alt="Alternate Text" />
+        <h6 class="h6_heading">Как это работает?</h6>
+    </div>
+    <div style="height:auto;" class="block_row justify_content_spaceAround align_items_center block_adaptive">
+        <div class="block_column justify_content_center align_items_center child_block">
+            <p class="p_obvodka">1</p>
+            <p class="p_heading">Выберите услугу</p>
+            <p class="p_description">Выберите в указанном поле нужную услугу. В ближайщее время с вами свяжется по электронной почте менеджер</p>
+        </div>
+        <div class="block_column justify_content_center align_items_center child_block">
+            <p class="p_obvodka">2</p>
+            <p class="p_heading">Оплата</p>
+            <p class="p_description">На электронную почту вам напишет менеджер, в результате вы обговорите условия сделки и сроки, а также произведете оплату</p>
+        </div>
+        <div class="block_column justify_content_center align_items_center child_block">
+            <p class="p_obvodka">3</p>
+            <p class="p_heading">Получение услуги</p>
+            <p class="p_description">После оплаты компания MACON произведет в указанные сроки услугу, а также предоставит перечень необходимых к ней документов</p>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,9 @@
+﻿footer{
+    width:100%;
+    height:80px;
+    border-top:2px solid gray;
+}
+.p_footer {
+    color: #848484;
+    font-size:16px;
+}

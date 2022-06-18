@@ -1,0 +1,8 @@
+﻿<div class="block_column back justify_content_center align_items_center block_manager">
+    <form class="form_clientMailing" asp-controller="Manager" asp-action="Client_Response_Mailing" method="post">
+        <h2>Отправка рассылки клиентам</h2>
+        <textarea style="height:300px; resize:none;" placeholder="Введите сообщения для рассылки" name="Message"></textarea>
+        <div style="font-size:14px;color:red;">@ViewBag.Message</div>
+        <button style="margin-top:5px;">&#9993; Отправить</button>
+    </form>
+</div>

@@ -1,0 +1,12 @@
+﻿@model int
+<div class="block_column back justify_content_center align_items_center block_manager">
+    <h2>Работа с клиентом (заявка)</h2>
+    <div class="td_but">
+    <form  asp-controller="Manager"   asp-action="Client_Response_BId" method="post">
+        <textarea name="id" style="display:none;">@Model</textarea>
+        <textarea name="text" placeholder="Свяжитесь с заказчиком, написав ему об услуге" style="height:300px;width:300px;resize:none;"></textarea>
+        <div style="font-size:14px;color:red;">@ViewBag.Message</div>
+        <input style="text-align: center; background: #bcda5c; border-radius: 3px; color: white; font-size: 18px; padding: 5px; border: 0; margin: auto; cursor: pointer;"  type="submit" value="&#128736; Связаться" />
+    </form>
+        </div>
+</div>

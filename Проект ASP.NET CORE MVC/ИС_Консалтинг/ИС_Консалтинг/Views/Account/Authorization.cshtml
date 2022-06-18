@@ -1,0 +1,14 @@
+﻿@model ИС_Консалтинг.ViewModels.User_Authorization
+<div class="block_column back justify_content_center align_items_center">
+    <form class="form_authorization" asp-controller="Account" asp-action="Authorization" method="post">
+        <div class="block_column">
+            <div class="div_title">Авторизация</div>
+            <div class="block_column form_parameters">
+                <input asp-for="Email" type="email" style="margin:0px;" placeholder="Введите E-mail"></input><span style="color:red; font-size:12px; margin-top:10px;" asp-validation-for="Email"></span>
+                <input asp-for="Password" type="password" placeholder="Введите пароль"></input><span style="color:red; font-size:12px; margin-bottom:10px;" asp-validation-for="Password"></span>
+                <div style="font-size:14px;color:red; margin-bottom:15px;">@Html.ValidationMessage("Error")</div> 
+                <button>Авторизация</button>
+            </div>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,34 @@
+﻿<div class="block_column justify_content_center align_items_center back">
+    <div class="slideshow-container">
+        <div class="mySlides fade">
+            <a asp-controller="Services" asp-action="Analitics">
+                <img class="imgServices" style="width:100%; border-radius:10px;" src="~/image/imgServices/Analitics.png"/>
+            </a>
+        </div>
+        <div class="mySlides fade">
+            <a asp-controller="Services" asp-action="Planning">
+                <img class="imgServices" style="width: 100%; border-radius: 10px;" src="~/image/imgServices/Planning.png" />
+            </a>
+        </div>
+        <div class="mySlides fade">
+            <a asp-controller="Services" asp-action="Strategy">
+                <img class="imgServices" style="width: 100%; border-radius: 10px;" src="~/image/imgServices/Strategy.png" />
+            </a>
+        </div>
+        <div class="mySlides fade">
+            <a asp-controller="Services" asp-action="Training">
+                <img class="imgServices" style="width: 100%; border-radius: 10px;" src="~/image/imgServices/Training.png" />
+            </a>
+        </div>
+        <a onclick="plusSlides(-1)"  class="prev">&#10094;</a>
+        <a onclick="plusSlides(+1)"  class="next">&#10095;</a>
+        <br />
+        <div style="text-align:center;">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+            <span class="dot" onclick="currentSlide(4)"></span>
+        </div>
+    </div>
+</div>
+

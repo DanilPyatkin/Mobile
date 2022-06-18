@@ -1,0 +1,119 @@
+﻿/*Стили для страницы со слайдером*/
+.slideshow-container{
+    max-width:900px;
+    position:relative;
+    margin:auto;
+}
+
+.prev{
+    cursor:pointer;
+    position:absolute;
+    top:40%;
+    width:auto;
+    padding:16px;
+    color:white;
+    font-weight:bold;
+    font-size:18px;
+    transition: 0.6s ease;
+    border-radius:0px 3px 3px 0px;
+}
+
+.next {
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    width: auto;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+.imgServices:hover{
+    opacity:80%;
+}
+
+.prev:hover, .next:hover{
+    background-color: rgba(0,0,0,0.8);
+}
+.dot {
+    cursor: pointer;
+    height: 13px;
+    width: 13px;
+    border-radius: 50%;
+    margin: 0 2px;
+    background-color: #c7c7c5;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+.active, .dot:hover{
+    background-color:#717171;
+}
+.fade{
+    -webkit-animation-name:fade;
+    -webkit-animation-duration:1.5s;
+    animation-name:fade;
+    animation-duration:1.5s;
+}
+@-webkit-keyframes fade {
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
+}
+@keyframes fade{
+    from{
+        opacity:0.4;
+    }
+    to{
+        opacity:1;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+/*Стили для страниц с услугами*/
+.services_container{
+    width:40%;
+    margin-left:50px;
+}
+.services_container p{
+    font-size:14px;
+    font-style:italic;
+    color:white;
+    text-align:left;
+    margin-top:15px;
+    margin-bottom:25px;
+}
+.services_container h6{
+    font-size:24px;
+    color:white;
+
+}
+.services_container p.title_services{
+    font-size:20px;
+    color:red;
+    margin-bottom:15px;
+}
+@media screen and (max-width:900px){
+    .services_container p{
+        font-size:12px;
+    }
+    .services_container{
+        width:60%;
+    }
+}

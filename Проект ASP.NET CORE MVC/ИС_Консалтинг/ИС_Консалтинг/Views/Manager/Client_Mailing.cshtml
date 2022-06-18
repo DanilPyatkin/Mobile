@@ -1,0 +1,23 @@
+﻿@model IEnumerable<ИС_Консалтинг.Models.Mailing>
+<div class="block_column back justify_content_center align_items_center block_manager">
+    <h2>Все подписки на актуальные новости</h2>
+    <table>
+        <tr>
+            <th>Email</th>
+            <th>Действие</th>
+        </tr>
+        @foreach (var mailing in Model)
+        {
+            if (mailing.Active == true)
+            {
+                <tr>
+                    <td>@mailing.Email</td>
+                    <td class="td_but"><form asp-controller="Manager" asp-action="Client_Mailing" asp-route-id="@mailing.Id" method="post"><input style="background:red;" type="submit" value="&#128465; Удалить" /></form></td>
+                </tr>
+            }
+        }
+    </table>
+    <form style="margin-top:5px;" class="form_clientMailing" asp-controller="Manager" asp-action="Client_Response_Mailing" method="get">
+        <button>&#9993; Отправить рассылку</button>
+    </form>
+</div>

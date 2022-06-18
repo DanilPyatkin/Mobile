@@ -1,0 +1,167 @@
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\appsettings.json
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.exe
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.deps.json
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.runtimeconfig.json
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.runtimeconfig.dev.json
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.dll
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ref\ИС_Консалтинг.dll
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.pdb
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.Views.dll
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.Views.pdb
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.AssemblyInfoInputs.cache
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.AssemblyInfo.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.RazorAssemblyInfo.cache
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.RazorAssemblyInfo.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\staticwebassets\ИС_Консалтинг.StaticWebAssets.Manifest.cache
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\staticwebassets\ИС_Консалтинг.StaticWebAssets.xml
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\scopedcss\bundle\ИС_Консалтинг.styles.css
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.TagHelpers.input.cache
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.TagHelpers.output.cache
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.RazorCoreGenerate.cache
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Home\HomePage.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.RazorTargetAssemblyInfo.cache
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.RazorTargetAssemblyInfo.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.Views.pdb
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.dll
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ref\ИС_Консалтинг.dll
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.pdb
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.genruntimeconfig.cache
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.csproj.CopyComplete
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Home\Mailing.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Home\Services.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Services\Analitics.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Services\Training.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Services\Planning.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Services\Strategy.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Account\Authorization.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\User\Bid.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\User\Support.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Manager\Client_Bid.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Manager\Client_Mailing.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Manager\Client_Support.cshtml.g.cs
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\MailKit.dll
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Данил\source\repos\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\appsettings.json
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.exe
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.deps.json
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.runtimeconfig.json
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.runtimeconfig.dev.json
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.dll
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ref\ИС_Консалтинг.dll
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.pdb
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.Views.dll
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.Views.pdb
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\MailKit.dll
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.AssemblyInfo.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.RazorAssemblyInfo.cache
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.RazorAssemblyInfo.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\staticwebassets\ИС_Консалтинг.StaticWebAssets.Manifest.cache
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\staticwebassets\ИС_Консалтинг.StaticWebAssets.xml
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\scopedcss\bundle\ИС_Консалтинг.styles.css
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.TagHelpers.input.cache
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.TagHelpers.output.cache
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.RazorCoreGenerate.cache
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Account\Authorization.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Home\HomePage.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Home\Mailing.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Home\Services.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Manager\Client_Bid.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Manager\Client_Mailing.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Manager\Client_Support.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Services\Analitics.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Services\Planning.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Services\Strategy.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Services\Training.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\User\Bid.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\User\Support.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.RazorTargetAssemblyInfo.cache
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.RazorTargetAssemblyInfo.cs
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.Views.pdb
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.csproj.CopyComplete
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.dll
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ref\ИС_Консалтинг.dll
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.pdb
+C:\Users\Данил\Desktop\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.genruntimeconfig.cache
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\appsettings.json
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.exe
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.deps.json
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.runtimeconfig.json
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.runtimeconfig.dev.json
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.dll
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ref\ИС_Консалтинг.dll
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.pdb
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.Views.dll
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\ИС_Консалтинг.Views.pdb
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\MailKit.dll
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.AssemblyInfo.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.RazorAssemblyInfo.cache
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.RazorAssemblyInfo.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\staticwebassets\ИС_Консалтинг.StaticWebAssets.Manifest.cache
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\staticwebassets\ИС_Консалтинг.StaticWebAssets.xml
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\scopedcss\bundle\ИС_Консалтинг.styles.css
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.TagHelpers.input.cache
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.TagHelpers.output.cache
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.RazorCoreGenerate.cache
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Account\Authorization.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Home\HomePage.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Home\Mailing.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Home\Services.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Manager\Client_Bid.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Manager\Client_Mailing.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Manager\Client_Support.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Services\Analitics.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Services\Planning.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Services\Strategy.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Services\Training.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\User\Bid.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\User\Support.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.RazorTargetAssemblyInfo.cache
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.RazorTargetAssemblyInfo.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.Views.pdb
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.csproj.CopyComplete
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.dll
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ref\ИС_Консалтинг.dll
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.pdb
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\ИС_Консалтинг.genruntimeconfig.cache
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Manager\Client_Response_Bid.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Manager\Client_Response_Mailing.cshtml.g.cs
+C:\Users\Данил\Desktop\Разработка\Проект ASP.NET CORE MVC\ИС_Консалтинг\ИС_Консалтинг\obj\Debug\net5.0\Razor\Views\Manager\Client_Response_Support.cshtml.g.cs
